@@ -24,7 +24,6 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 | **CLEVR-70k-Complex** | - | [Link](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_70K_Complex) | Vision + Text |
 | **GEOQA-8k** | - | [Link](https://huggingface.co/datasets/leonardPKU/GEOQA_R1V_Train_8K) | Vision + Text |
 | **Clevr_CoGenT_TrainA_R1** | - | [Link](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_R1) | Vision + Text |
-
 | **Open-Thoughts-114k** | - | [Link](https://huggingface.co/datasets/leonardPKU/GEOQA_R1V_Train_8K) | Text |
 | **OpenThoughts-Unverified-173k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-Unverified-173k) | Text |
 

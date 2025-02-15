@@ -19,7 +19,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 | Name | Paper | Link | Modalities |
 |:-----|:-----:|:----:|:----------:|
 | **multimodal-open-r1-8k-verified** | - | [Link](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified) | Vision + Text |
-| **R1-Vision** | - | [Link](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83) | Vision + Text |
+| **R1-Vision** | R1-Vision: Let's first take a look at the image | [Link](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83) | Vision + Text |
 | **CLEVR-70k-Counting** | - | [Link](https://huggingface.co/datasets/leonardPKU/clevr_cogen_a_train) | Vision + Text |
 | **CLEVR-70k-Complex** | - | [Link](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_70K_Complex) | Vision + Text |
 | **GEOQA-8k** | - | [Link](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_70K_Complex) | Vision + Text |

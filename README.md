@@ -26,3 +26,19 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 | **R1-Vision** | - | [Link](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83) | Vision + Text |
 | **Open-Thoughts-114k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | Text |
 | **OpenThoughts-Unverified-173k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-Unverified-173k) | Text |
+
+# 
+If you find this project useful in your research, please consider cite:
+```
+@misc{chen25mllmr1,
+  author       = {Feilong Chen},
+  title        = {Awesome-MLLM-R1},
+  howpublished = {\url{https://github.com/phellonchen/Awesome-MLLM-R1}},
+  note         = {Accessed: 2025-02-15},
+  year         = {2025}
+}
+```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/phellonchen/Awesome-MLLM-R1&type=Timeline)](https://star-history.com/#atfortes/phellonchen/Awesome-MLLM-R1)

@@ -40,4 +40,4 @@ If you find this project useful in your research, please consider cite:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/phellonchen/Awesome-MLLM-R1&type=Timeline)](https://star-history.com/#atfortes/phellonchen/Awesome-MLLM-R1)
+[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/phellonchen/Awesome-MLLM-R1&type=Timeline)](https://star-history.com/phellonchen/Awesome-MLLM-R1)

@@ -13,5 +13,5 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 # Awesome Technique
 |  Title  |   Code  |   Star   |
 |:--------|:--------:|:--------:|
-| <br> [**open-r1-multimodal] <br> | [Github](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) |  ![Star](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star) |
+| <br> [**open-r1-multimodal**] <br> | [Github](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) |  ![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star) |
 

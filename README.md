@@ -17,4 +17,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 |![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star) <br> **TideDra/lmm-r1** <br> | [Github](https://github.com/TideDra/lmm-r1) | Extend OpenRLHF to support LMM RL training for reproduction of DeepSeek-R1 on multimodal tasks. |
 |![Star](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey.svg?style=social&label=Star) <br> **FanqingM/R1-Multimodal-Journey** <br> | [Github](https://github.com/FanqingM/R1-Multimodal-Journey) | A jounery to real multimodel R1 ! We are doing on large-scale experiment |
 
-
+# Awesome Datasets
+| Name | Paper | Link | Modalities |
+|:-----|:-----:|:----:|:----------:|
+| **multimodal-open-r1-8k-verified** | - | [Link]([https://github.com/inst-it/inst-it](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified)) | Vision + Text |

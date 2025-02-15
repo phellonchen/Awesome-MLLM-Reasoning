@@ -24,3 +24,5 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 |:-----|:-----:|:----:|:----------:|
 | **multimodal-open-r1-8k-verified** | - | [Link](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified) | Vision + Text |
 | **R1-Vision** | - | [Link](https://huggingface.co/collections/yuyq96/r1-vision-67a6fb7898423dca453efa83) | Vision + Text |
+| **Open-Thoughts-114k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | Text |
+| **OpenThoughts-Unverified-173k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-Unverified-173k) | Text |

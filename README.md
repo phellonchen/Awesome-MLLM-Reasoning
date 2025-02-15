@@ -17,6 +17,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 |![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) <br> **Deep-Agent/R1-V** <br> | [Github](https://github.com/Deep-Agent/R1-V) | Witness the aha moment of VLM with less than $3. |
 |![Star](https://img.shields.io/github/stars/TideDra/lmm-r1.svg?style=social&label=Star) <br> **TideDra/lmm-r1** <br> | [Github](https://github.com/TideDra/lmm-r1) | Extend OpenRLHF to support LMM RL training for reproduction of DeepSeek-R1 on multimodal tasks. |
 |![Star](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey.svg?style=social&label=Star) <br> **FanqingM/R1-Multimodal-Journey** <br> | [Github](https://github.com/FanqingM/R1-Multimodal-Journey) | A jounery to real multimodel R1 ! We are doing on large-scale experiment |
+|![Star](https://img.shields.io/github/stars/yuyq96/R1-Vision.svg?style=social&label=Star) <br> **yuyq96/R1-Vision** <br> | [Github](https://github.com/yuyq96/R1-Vision) | R1-Vision: Let's first take a look at the image |
 
 # Awesome Datasets
 | Name | Paper | Link | Modalities |

@@ -20,4 +20,4 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 # Awesome Datasets
 | Name | Paper | Link | Modalities |
 |:-----|:-----:|:----:|:----------:|
-| **multimodal-open-r1-8k-verified** | - | [Link]([https://github.com/inst-it/inst-it](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified)) | Vision + Text |
+| **multimodal-open-r1-8k-verified** | - | [Link](https://huggingface.co/datasets/lmms-lab/multimodal-open-r1-8k-verified) | Vision + Text |

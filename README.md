@@ -1,4 +1,4 @@
-# Awesome-MLLM-R1
+# Awesome-MLLM-Reasoning
 Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multimodal Large Language Models (Multimodal R1) ) 🍓
 
 <font size=5><center><b> Table of Contents </b> </center></font>

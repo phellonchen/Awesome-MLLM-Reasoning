@@ -34,7 +34,7 @@ If you find this project useful in your research, please consider cite:
 @misc{chen25mllmr1,
   author       = {Feilong Chen},
   title        = {Awesome-MLLM-R1},
-  howpublished = {\url{https://github.com/phellonchen/Awesome-MLLM-R1}},
+  howpublished = {\url{https://github.com/phellonchen/Awesome-MLLM-Reasoning}},
   note         = {Accessed: 2025-02-15},
   year         = {2025}
 }

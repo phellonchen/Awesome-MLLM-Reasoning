@@ -27,6 +27,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 | **Clevr_CoGenT_TrainA_R1** | - | [Link](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_R1) | Vision + Text |
 | **Open-Thoughts-114k** | - | [Link](https://huggingface.co/datasets/leonardPKU/GEOQA_R1V_Train_8K) | Text |
 | **OpenThoughts-Unverified-173k** | - | [Link](https://huggingface.co/datasets/open-thoughts/OpenThoughts-Unverified-173k) | Text |
+| **Chinese-DeepSeek-R1-Distill-data-110k** | - | [Link](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k) | Text |
 
 ## Citation
 If you find this project useful in your research, please consider cite:

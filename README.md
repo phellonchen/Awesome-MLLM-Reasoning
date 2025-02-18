@@ -43,5 +43,5 @@ If you find this project useful in your research, please consider cite:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=phellonchen/Awesome-MLLM-R1&type=Timeline)](https://star-history.com/#phellonchen/Awesome-MLLM-R1&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=phellonchen/Awesome-MLLM-Reasoning&type=Timeline)](https://star-history.com/#phellonchen/Awesome-MLLM-Reasoning&Timeline)
 

@@ -15,6 +15,8 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 |![Star](https://img.shields.io/github/stars/FanqingM/R1-Multimodal-Journey.svg?style=social&label=Star) <br> **FanqingM/R1-Multimodal-Journey** <br> | [Github](https://github.com/FanqingM/R1-Multimodal-Journey) | A jounery to real multimodel R1 ! We are doing on large-scale experiment |
 |![Star](https://img.shields.io/github/stars/yuyq96/R1-Vision.svg?style=social&label=Star) <br> **yuyq96/R1-Vision** <br> | [Github](https://github.com/yuyq96/R1-Vision) | R1-Vision: Let's first take a look at the image |
 |![Star](https://img.shields.io/github/stars/phellonchen/Visual-R1.svg?style=social&label=Star) <br> **phellonchen/Visual-R1** <br> | [Github](https://github.com/phellonchen/Visual-R1) | Visual R1: Transfer Reasoning Ability from R1 to Visual R1 |
+|![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star) <br> **om-ai-lab/VLM-R1** <br> | [Github](https://github.com/om-ai-lab/VLM-R1) | VLM-R1: A stable and generalizable R1-style Large Vision-Language Model |
+
 
 ## Awesome Datasets
 | Name | Paper | Link | Modalities |

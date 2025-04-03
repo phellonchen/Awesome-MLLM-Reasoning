@@ -7,7 +7,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 ---
 
 ## Awesome Technique
-|  Title  |   Code  |   About   |
+|  Title  |   Code  |   About / Paper   |
 |:--------|:--------:|:--------:|
 |![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/open-r1-multimodal.svg?style=social&label=Star) <br> **EvolvingLMMs-Lab/open-r1-multimodal** <br> | [Github](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) | A fork to add multimodal model training to open-r1 |
 |![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) <br> **Deep-Agent/R1-V** <br> | [Github](https://github.com/Deep-Agent/R1-V) | Witness the aha moment of VLM with less than $3. |
@@ -17,6 +17,7 @@ Reasoning in MLLMs: Papers and Resources; Latest Advances on Reasoning of Multim
 |![Star](https://img.shields.io/github/stars/phellonchen/Visual-R1.svg?style=social&label=Star) <br> **phellonchen/Visual-R1** <br> | [Github](https://github.com/phellonchen/Visual-R1) | Visual R1: Transfer Reasoning Ability from R1 to Visual R1 |
 |![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star) <br> **om-ai-lab/VLM-R1** <br> | [Github](https://github.com/om-ai-lab/VLM-R1) | VLM-R1: A stable and generalizable R1-style Large Vision-Language Model |
 |![Star](https://img.shields.io/github/stars/ModalMinds/MM-EUREKA.svg?style=social&label=Star) <br> **ModalMinds/MM-EUREKA** <br> | [Github](https://github.com/ModalMinds/MM-EUREKA) | MM-EUREKA: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning |
+|![Star](https://img.shields.io/github/stars/jingyi0000/R1-VL.svg?style=social&label=Star) <br> **jingyi0000/R1-VL** <br> | [Github](https://github.com/jingyi0000/R1-VL) | R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization(https://arxiv.org/html/2503.12937v1) |
 
 
 ## Awesome Datasets
